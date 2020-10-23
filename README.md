@@ -1,3 +1,7 @@
 # spring-laboratory
 
-Administer platform
+`thraex.site.enabled`
+	
+	- `true`: Portal mode
+
+	- `false`: Admin mode. Default
